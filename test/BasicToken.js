@@ -41,6 +41,6 @@ contract('BasicToken', function(accounts) {
     } catch(error) {
       assertRevert(error);
     }
-  });
+  }); //конец it
 
 });
