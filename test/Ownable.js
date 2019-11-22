@@ -42,8 +42,6 @@ contract('Ownable', function(accounts) {
   it('should guard ownership against stuck state', async function() {
     let originalOwner = await ownable.owner();
 
-    const other = accounts[2];
-
     try {
       await ownable.transferOwnership(null, {from: originalOwner});
       assert.fail();
