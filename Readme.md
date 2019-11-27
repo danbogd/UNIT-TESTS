@@ -1,5 +1,2 @@
-# UNIT TESTS
 
-## Ownable smart-contract.
-
-## BasicToken smart-contract.
+# DAN Token ERC20 Smart-contract + UNIT TESTS.
