@@ -1,4 +1,6 @@
 
 # DAN Token ERC20 Smart-contract + UNIT TESTS.
 
-## Address smart-contract  in ETHEREUM Goerli testnet: 0x5712ce5FEaC1b07EBf43E7a8850483E164663eCF
+## Address smart-contract  in ETHEREUM Goerli testnet: 0xf427FFba4BE393C4a4A059099eBA408E347fa5eB
+
+https://goerli.etherscan.io/address/0xf427FFba4BE393C4a4A059099eBA408E347fa5eB#code
