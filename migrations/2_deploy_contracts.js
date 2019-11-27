@@ -1,5 +1,5 @@
 
-const MetaCoin = artifacts.require("Ownable");
+const MetaCoin = artifacts.require("SafeMath");// название контакта в папке build
 
 module.exports = function(deployer) {
     
